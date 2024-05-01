@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**<OUR PROJECT TITLE>**
+**Learning assistant**
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. (Isi dengan deskripsi project)
 
@@ -21,8 +21,6 @@ Here are our beloved teams
 ## Resources
 
 ---
-
-Tulis seluruh resource yang digunakan menggunakan toggle list seperti contoh dibawah.
 
 - Backend Repo’s
     
