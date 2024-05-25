@@ -8,29 +8,30 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendi
 
 ---
 
-Here are our beloved teams
+# our team
 
-1. @Dandi Lesmana as CC-11
-2. @Luthfi Irfan as CC-28
-3. @Tan Nicholas as ML-77
-4. @Xuchin Valezka as ML - 72
-5. 
-6. @Achmad Faqih Suyudi as MD-03
-7. @Muhammad Nabhan Rifa'i as MD-09
+1. - <a href="https://www.linkedin.com/in/dandi-lesmana-b52b3122b">Dandi Lesmana</a> as CC-11
+2. - <a href="https://www.linkedin.com/in/muhammad-luthfi-irfan">Muhammad Luthfi Irfan</a> as CC-28
+3. - <a href="https://www.linkedin.com/in/tan-nicholas-octavian-wijaya/">Tan Nicholas Octavian Wijaya</a> as ML-77
+4. - <a href="https://www.linkedin.com/in/xuchinn">Xuchin Valezka</a> as ML- 72
+5. - <a href="https://www.linkedin.com/in/mraflidwis/">Muhammad Rafli Dwi Sutrisno</a> as ML
+6. - <a href="https://www.linkedin.com/in/achmad-faqih-suyudi-a540b026a/">Achmad Faqih Suyudi</a> as MD-03
+7. - <a href="https://www.linkedin.com/in/muhammad-nabhan-rifa-i/ ">Muhammad Nabhan Rifa’i</a> as MD-09
+
 
 ## Resources
 
 ---
 
-- Backend Repo’s
+ ### Backend Repo’s
     
-    https://github.com/luthfi9251
+    https://github.com/luthfi9251](https://github.com/talk-tales/CC-Backend
     
-- Dataset Link
+### Dataset Link
     
     [Dataset Muka Hewan](https://kaggle.com)
     
-- Figma
+### Figma
     
     Todo
 <!--
