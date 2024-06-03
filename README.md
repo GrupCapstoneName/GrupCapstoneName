@@ -24,8 +24,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendi
 ---
 
  ### Backend Repo’s
-    
-    https://github.com/luthfi9251](https://github.com/talk-tales/CC-Backend
+   https://github.com/talk-tales/CC-Backend
     
 ### Dataset Link
     
