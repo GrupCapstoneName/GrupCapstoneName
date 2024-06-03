@@ -29,7 +29,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendi
     
 ### Dataset Link
     
-    [Dataset Muka Hewan](https://kaggle.com)
+    [LJ Speech]([https://kaggle.com](https://www.kaggle.com/datasets/awsaf49/ljspeech-sr16k-dataset/code))
     
 ### Figma
     
