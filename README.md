@@ -33,6 +33,7 @@ Indonesia ranks 81st in English proficiency among 111 nations as per the 2022 EF
 - <a href="https://github.com/talk-tales/Android-Talk-Tales">Android</a>
 - <a href="https://github.com/talk-tales/service-model">Model Service Backend</a>
 - <a href="https://github.com/talk-tales/CC-Backend">Talk Tales Backend</a>
+- <a href="https://github.com/talk-tales/ML">Machine Learning</a>
 - <a href="https://documenter.getpostman.com/view/26086126/2sA3XMhNgk">API Documentation</a>
 
 ### Project Document
